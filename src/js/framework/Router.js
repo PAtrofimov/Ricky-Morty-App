@@ -16,6 +16,7 @@ export default class Router {
     }
 
     handleUrlChange() {
+        debugger
         if (!location.hash) {
             location.assign(`/#${location.pathname}`);
         } else if (!location.hash.slice(1).startsWith('/')) {
