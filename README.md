@@ -1,7 +1,7 @@
 # Ricky & Morty
 
 **NB!** Current development goes in
-[`dev`](https://github.com/patrofimov)
+[`dev`](https://patrofimov.github.io/Ricky-Morty-App/)
 
 ## First launch
 
