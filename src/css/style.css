@@ -44,11 +44,9 @@ img.img-item {
     width: 20rem;
 }
 
-
 .list-item {
     display: flex;
 }
-
 
 .prev-btn {
     margin-right: 3rem;
@@ -64,7 +62,6 @@ img.img-item {
     padding: 1rem;
     width: 5rem;
 }
-
 
 .info-text {
     color: midnightblue;

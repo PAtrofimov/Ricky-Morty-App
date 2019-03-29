@@ -1,7 +1,7 @@
 class AppState {
   constructor() {
     this.watchers = {
-      // 'ENTITY': [ watcher1, watcher2 ],
+      
     };
   }
 
